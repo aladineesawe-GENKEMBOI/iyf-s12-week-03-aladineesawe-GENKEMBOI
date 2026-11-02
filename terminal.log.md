@@ -17,7 +17,7 @@ The following are the last 10 commands executed during my Week 3 terminal practi
 46  history | tail -10
 ```
 
-## What I Learned
+## What I Learned.
 
 - How to navigate directories using the terminal.
 - How to create, copy, move and delete files.
